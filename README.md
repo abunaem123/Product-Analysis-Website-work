@@ -1,8 +1,8 @@
 # Car Review Site
 
-This Car Review Site [Live Site Link](https://car-review-name.netlify.app/).
+This Car Review Site [Live Site Link](https://car-review-naem.netlify.app/).
 <br>
-https://car-review-name.netlify.app/
+https://car-review-naem.netlify.app/
 
 * In review page i have used fake data
 * I Have Used React Taliwind 
