@@ -1,5 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
+import HomeReview from '../AllReviews/HomeReview';
 
 const Home = () => {
     const ExploreBtn = useNavigate()
@@ -15,6 +16,7 @@ const Home = () => {
                     <img src="/Images/car.png" alt="" />
                 </div>
             </div>
+            <HomeReview></HomeReview>
         </div>
 
     );

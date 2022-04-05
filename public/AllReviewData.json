@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "name": "Angeline",
+      "CustomerReview": "There’s no doubt the Audi Q3 has been inspired by the vast Q8 SUV – that giant grille, for example, makes it look just like a toddler that’s trying on its Grandparent’s dentures ",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "name": "Rodgers",
+      "CustomerReview": " With plenty of kit on board, like the larger touchscreen and keyless go, Allure Premium is the trim to have  ",
+      "rating": 4
+    },
+    {
+      "id": "3",
+      "name": "Mcconnell",
+      "CustomerReview": " Even in the company of many swanky small SUVs, the Range Rover Evoque is one of the most stylish. And, it comes with some seriously impressive in-car tech, too.",
+      "rating": 5
+    },
+    {
+      "id": "4",
+      "name": "Reed",
+      "CustomerReview": " I’d be inclined to go for one of the A 250 models. Not only do you get a punchier engine than cheaper ones, you get a more sophisticated suspension set-up too.",
+      "rating": 3
+    },
+    {
+      "id": "5",
+      "name": "Willa",
+      "CustomerReview": " The Volvo XC40 is a bit of a cracker. It's a sophisticated SUV with an upmarket feel and the icing on the cake is that it's really easy to live with.",
+      "rating": 5
+    },
+    {
+      "id": "6",
+      "name": "Marquez",
+      "CustomerReview": " Our pick of the range is the 1.5 petrol in R-Line trim. It's a great engine for all types of driving, and R-Line goodies makes the Tiguan look its best.",
+      "rating": 3
+    }
+  ]
