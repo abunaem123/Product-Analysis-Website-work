@@ -18,7 +18,7 @@ const HomeReview = () => {
                         ></SingleReview>)
                     }
                 </div>
-                <button className='bg-blue-500  text-white py-2 px-10 text-lg rounded my-3 mb-10' onClick={() => SeeAllBtn('/reviews')}>See All Review</button>
+                <button className='bg-blue-500  bg-yellow-300 py-2 px-10 text-lg rounded my-3 mb-10' onClick={() => SeeAllBtn('/reviews')}>See All Review</button>
 
             </div>
 

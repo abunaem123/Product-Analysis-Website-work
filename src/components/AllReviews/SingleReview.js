@@ -3,7 +3,7 @@ import React from 'react';
 const SingleReview = ({ review }) => {
     const { img, name, rating, CustomerReview } = review;
     return (
-        <div>
+        <div className='drop-shadow-lg '>
             <div className='border border-gray-400 m-5 h-72  rounded-3xl'>
                 <div className='m-10'>
                 <img className='mx-auto rounded-3xl w-14 drop-shadow-lg' src={img} alt="" />
