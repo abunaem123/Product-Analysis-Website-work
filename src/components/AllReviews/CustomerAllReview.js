@@ -5,7 +5,7 @@ import SingleReview from './SingleReview';
 const CustomerAllReview = () => {
     const [reviews] = ReviewData()
     return (
-        <div>
+        <div >
             <h3 className='mt-10 text-3xl font-bold'>Buyer Reviews</h3>
             
 
